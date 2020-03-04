@@ -1,0 +1,5 @@
+# ignore secrets
+auth.json
+
+# ignore modules
+node_modules
