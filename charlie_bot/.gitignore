@@ -6,4 +6,4 @@ node_modules
 
 # I hate these files
 .DS_Store
-assets/meows/.DS_Store
+Assets/meows/.DS_Store
