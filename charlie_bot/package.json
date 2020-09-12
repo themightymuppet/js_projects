@@ -9,7 +9,7 @@
 		"ffmpeg-static": "^4.0.1",
 		"fs-extra": "^8.1.0",
 		"lodash": "^4.17.15",
-		"node-fetch": "^2.6.0",
+		"node-fetch": "^2.6.1",
 		"opusscript": "0.0.7",
 		"winston": "^3.2.1"
 	}
